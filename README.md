@@ -1,8 +1,10 @@
-# MOC-CAS (AAMAS 2026) — Reference code for SARS-CoV-2 3CLPro dataset
+# MOC-CAS (AAMAS 2026) — Code for SARS-CoV-2 3CLPro dataset
 
-This repository contains a reference implementation of **MOC-CAS** (Multi-Objective Coverage via Constraint Active Search)
-used in the **AAMAS 2026 camera-ready** experiments on the **SARS-CoV-2 3CLPro target dataset**.
-The same code/logic was applied to other datasets in the paper.
+This repository contains an implementation of the **MOC-CAS** algorithm on the **SARS-CoV-2 3CLPro target dataset**. The same code was applied to other datasets in the paper.
+
+**Multi-Objective Coverage via Constraint Active Search**
+Zakaria Shams Siam, Xuefeng Liu, Chong Liu
+The 25th International Conference on Autonomous Agents and Multiagent Systems (**AAMAS**-2026), Paphos, Cyprus, 2026, to appear.
 
 ## Repository contents
 
