@@ -1,0 +1,57 @@
+# ===== macOS =====
+.DS_Store
+__MACOSX/
+.AppleDouble
+.LSOverride
+Icon?
+._*
+
+# ===== Python bytecode / native extensions =====
+__pycache__/
+*.py[codz]
+*$py.class
+*.so
+
+# ===== Virtual environments =====
+.env
+.envrc
+.venv/
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# ===== Packaging / build =====
+build/
+dist/
+.eggs/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# ===== Test / type-check / lints =====
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+.coverage.*
+htmlcov/
+.tox/
+.nox/
+
+# ===== Notebooks =====
+.ipynb_checkpoints/
+
+# ===== IDEs / editors =====
+.vscode/
+.idea/
+*.swp
+*~
+
+# ===== Experiment outputs =====
+results*/
+selections_jsons/
+*.csv
+*.pkl
+*.log
